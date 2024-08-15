@@ -1,2 +1,2 @@
 # GrayPunter Utils
-Punter73 and Gray-Rice Configs and scripts for Linux
+[Punter73](https://github.com/Punter73) and [Gray-Rice](https://github.com/Gray-Rice) Configs and scripts for Linux
